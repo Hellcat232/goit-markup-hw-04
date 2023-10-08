@@ -156,6 +156,7 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 .title {
   font-family: Roboto;
@@ -416,6 +417,10 @@ a {
 }
 .footer-container {
   margin-right: 120px;
+}
+.container-left-section {
+  display: flex;
+  align-items: baseline;
 }
 .footer-social-container {
   display: flex;
